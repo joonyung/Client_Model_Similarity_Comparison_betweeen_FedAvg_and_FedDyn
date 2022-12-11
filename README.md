@@ -7,3 +7,7 @@
 ![Picture 1](https://user-images.githubusercontent.com/65150672/206918787-35b32973-606e-47f8-a1e5-d2e01cad853c.png)
 
 ![cka6](https://user-images.githubusercontent.com/65150672/206918796-c9ea99ee-e28c-487d-92eb-f98b06e1c397.png)
+
+
+Reference:
+https://github.com/yuanli2333/CKA-Centered-Kernel-Alignment.git
